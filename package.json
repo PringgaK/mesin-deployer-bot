@@ -1,0 +1,10 @@
+{
+  "name": "g9bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { 
+    "telegraf": "^4.12.2", 
+    "@octokit/rest": "^19.0.11" 
+  }
+}
